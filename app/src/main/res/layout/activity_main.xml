@@ -13,7 +13,8 @@
 
     <Button
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="3"
         app:backgroundTint="@color/bt1_color"
         android:layout_margin="5dp"
         android:text="Button 1"/>
@@ -22,12 +23,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:backgroundTint="@color/bt2_color"
+        android:layout_weight="1"
         android:layout_margin="5dp"
         android:text="Button 2"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:layout_margin="5dp"
         app:backgroundTint="@color/bt3_color"
         android:text="Button 3"/>
@@ -35,6 +38,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
         app:backgroundTint="@color/bt4_color"
         android:layout_margin="5dp"
         android:text="Button 4"/>
