@@ -9,4 +9,11 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="red_color">#ED0808</color>
+
+    <color name="bt1_color">#dc9e1a</color>
+
+    <color name="bt2_color">#00c853</color>
+
+    <color name="bt3_color">#141ba9</color>
+    <color name="bt4_color">#dc1a8b</color>
 </resources>
