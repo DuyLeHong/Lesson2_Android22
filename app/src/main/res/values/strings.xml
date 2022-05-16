@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lesson2</string>
+
+    <string name="home">Trang chu</string>
 </resources>
